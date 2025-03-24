@@ -21,4 +21,4 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
-" /vendor /node_modules /storage /bootstrap/cache .env .env.example .DS_Store" 
+
